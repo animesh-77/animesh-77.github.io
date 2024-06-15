@@ -5,11 +5,12 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+sitemap: false
 ---
 
 Phyiscs 
 ======
-With an eagerness to unravel the mystery of the Universe I joined St Stephen's College to pursue my undergraduate in Physics. I met wonderful people, undertook daunting projects, participated in the Electronics society all the while keeping my love of coding alive. In the very first semester I was intorduced to the world of computational physics which helped me turn my *equations into code*. Easier said than done. By the time I was in thrid year I became fascinated with the world of AI which was striding at a rapid pace fueled by the GPU revolution. Armed with the mathmeatical prowess I developed studying physics I turned my attention to AI
+With an eagerness to unravel the mystery of the Universe I joined St Stephen's College to pursue my undergraduate in Physics. I met wonderful people, undertook daunting projects, participated in the Electronics society all the while keeping my love of coding alive. In the very first semester I was intorduced to the world of computational physics which helped me turn my *equations into code*. Easier said than done. By the time I was in third year I became fascinated with the world of AI which was striding at a rapid pace fueled by the GPU revolution. Armed with the mathmeatical prowess I developed studying physics, I turned my attention towards understanding AI
 
 Machine Learning
 ======
