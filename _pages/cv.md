@@ -18,8 +18,9 @@ redirect_from:
   </tr>
 </table>
 
-* Machine vision, Applied deep learning, Graphical models, Supervised learning and Robot vision and navigation
-* Lab work in Python and Matlab
+* Machine vision, Applied deep learning, Graphical models, Supervised learning, Robot vision and navigation, Information retrieval and data mining
+* Developed and evaluated ML/DL models using Pytorch as part of coursework
+* Implemented and assessed ORB-SLAM 2 in C++ as part of coursework
 
 
 <table style="width: 100%; border-width: 0; font-size: 17px;">
@@ -29,7 +30,7 @@ redirect_from:
   </tr>
 </table>
 
-* Final CGPA of 8.419
+* Final CGPA of 8.42
 * Linear Algebra and Tensor Analysis, Advanced Calculus, Mathematical Physics, Fourier Analysis, Probability and Statistics and Quantum mechanics 
 * Computational physics lab with Python
 * Recipient of the INPSIRE scholarship, awarded by the Government of India to 12K students from all over India
@@ -52,29 +53,28 @@ redirect_from:
 <table style="width: 100%; border-width: 0; font-size: 17px;">
   <tr>
     <td style="width: 80%; border-width: 0;"><strong>MSc dissertation project </strong>- <em>Bodymetrics, London, UK</em></td>
-    <td style="text-align: right; width: 20%; border-width: 0;"><p style="margin: 0; border-width: 0;">May 2024 - present</p></td>
+    <td style="text-align: right; width: 20%; border-width: 0;"><p style="margin: 0; border-width: 0;">May 2024 - Sep 2024</p></td>
   </tr>
 </table>
 
-
-
-
-* Extended 3D gaussian splatting technique to model dynamic scenes with humans performers
+* Extend 3D gaussian splatting technique to model dynamic scenes with a minimal camera set-up
 * Render and edit dynamic 3D gaussian splats to photorealistic levels
-* Training and optimisation done with Pytorch with planned CUDA implementation
+* Develop and optimise an end-to-end 4D gaussian splatting pipeline in Pytorch
+* Planned pipeline migration to CUDA
 
 <table style="width: 100%; border-width: 0; font-size: 17px;">
   <tr>
     <td style="width: 80%; border-width: 0;"><strong>Geospatial Analyst </strong>- <em>Pixxel, Bengaluru, India</em></td>
-    <td style="text-align: right; width: 20%; border-width: 0;"><p style="margin: 0; border-width: 0;">Jan - July 2023</p></td>
+    <td style="text-align: right; width: 20%; border-width: 0;"><p style="margin: 0; border-width: 0;">Jan 2023 - July 2023</p></td>
   </tr>
 </table>
 
 
-* Designed a novel model to monitor crop growth at a farm level using multispectral satellite data 
-* The up-scaled model was able to segment farmlands and predict crop cycles with 80% accuracy 
-* Developed python scripts to query satellite data, segment farm boundaries, model crop cycles and create an interactive dashboard using Plotly/Dash
-* Maintained and updated deep learning models post deployment on company platform
+
+* Designed a stable orbit for a prospective Indian lunar mission, meeting all mission objectives
+* Simulated satellite trajectories with GMAT and processed results with pandas
+* A final orbit was proposed with a lifetime of 2 years without any need of station keeping manoeuvres
+* Presented my work to the Astronomy & Astrophysics group at RRI and Indian Academy of Sciences
 
 
 
@@ -117,13 +117,11 @@ redirect_from:
   </tr>
 </table>
 
-
-
-
 * Mentored new members on projects with ARDUINO
 * Designed an obstacle avoider and home automation system with ESP32
-* Monitored the logistical requirements of the society and its members
-* Organised annual society fests with participants from 20+ colleges
+* Monitored all logistical requirements of the society and its members
+* Organised annual society events with participants from 20+ colleges
+
 
 <table style="width: 100%; border-width: 0; font-size: 17px;">
   <tr>
@@ -165,7 +163,7 @@ redirect_from:
 * MS Excel, Word, Powerpoint and LaTeX
 * Git and GitHub 
 * Linux (Ubuntu) 
-* Unreal Engine 5
+* Unity
 * QGIS for geospatial analytics
 * GMAT to design and optimise space missions
 
