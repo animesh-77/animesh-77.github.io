@@ -58,7 +58,7 @@ redirect_from:
 </table>
 
 * Extend 3D gaussian splatting technique to model dynamic scenes with a minimal camera set-up
-* Render and edit dynamic 3D gaussian splats to photorealistic levels
+* Render and edit dynamic 3D gaussian splats  to photorealistic levels in Unity
 * Develop and optimise an end-to-end 4D gaussian splatting pipeline in Pytorch
 * Planned pipeline migration to CUDA
 

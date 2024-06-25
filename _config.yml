@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "My journey so far...."
+title                    : "About me"
 subtitle                 : "Version 2.0"
 title_separator          : "-"
 name                     : &name "Animesh Srivastava"
