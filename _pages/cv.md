@@ -19,8 +19,7 @@ redirect_from:
 </table>
 
 * Machine vision, Applied deep learning, Graphical models, Supervised learning, Robot vision and navigation, Information retrieval and data mining
-* Developed and evaluated multiple ML/DL models using Pytorch as part of coursework
-* Implemented and assessed ORB-SLAM 2 in C++ as part of coursework
+* Developed and evaluated ML/DL models using Pytorch and ORB-SLAM2 in C++ 
 
 
 <table style="width: 100%; border-width: 0; font-size: 17px;">
@@ -104,7 +103,7 @@ redirect_from:
 
 * Designed a stable orbit for a prospective Indian lunar mission, ensuring alignment with all mission objectives and enhancing mission feasibility
 * Simulated satellite trajectories using GMAT and efficiently processed results with pandas, optimizing data analysis and trajectory accuracy
-* Proposed a final orbit with a 2-year lifespan, eliminating the need for station-keeping maneuvers and thereby reducing mission operational costs 
+* Proposed a final orbit with a 2-year lifespan, eliminating the need for station-keeping manoeuvres and thereby reducing mission operational costs 
 * Presented findings to the Astronomy & Astrophysics group at RRI and the Indian Academy of Sciences, gaining recognition for innovative orbital dynamics solutions and contributing to national space exploration initiatives
 
 # Skills and certifications
@@ -119,6 +118,7 @@ redirect_from:
 
 * Experienced in **Python** for ML/DL, competitive coding, data science and computational physics 
 * Pandas, Numpy, Scikit-learn, Matplotlib, Plotly/Dash, SciPy, TensorFlow, PyTorch, GDAL, Rasterio, GeoPandas, rioxarray and pySTAC
+* **Unity** for AR/VR
 * Competent in **JAVA** , **C++ , ARDUINO **and** ESP32**
 * **CUDA** for training on GPUs
 
@@ -131,7 +131,6 @@ redirect_from:
 
 * **Git** and **GitHub** 
 * **Linux** (**Ubuntu**) 
-* **Unity** for AR/VR
 * **QGIS** 
 * MS Excel, Word, PowerPoint and LaTeX
 
@@ -157,7 +156,7 @@ redirect_from:
 * Led weekly hands-on workshops on ARDUINO projects, successfully mentoring and onboarding over 20 new members
 * Led the design and development of an improved obstacle-avoiding robot and a home automation system using ESP32
 * Efficiently managed all logistical needs for the society of over 50 members, ensuring seamless operations throughout the academic year
-* Successfully organized annual society events, attracting over 200 participants from 20+ colleges, and increased event attendance by 25% year-over-year
+* Successfully organised annual society events, attracting over 200 participants from 20+ colleges, and increased event attendance by 25% year-over-year
 
 
 <table style="width: 100%; border-width: 0; font-size: 17px;">
@@ -168,13 +167,13 @@ redirect_from:
 </table>
 
 * Led weekly hands-on Python workshops, covering popular libraries such as NumPy Matplotlib and Pandas
-* Organized and facilitated workshops on topics from machine learning, data science, algorithms, and data structures, empowering for over 100 students across all courses
+* Organised and facilitated workshops on topics from machine learning, data science, algorithms, and data structures, empowering for over 100 students across all courses
 * Developed and managed weekly social media engagement posts, sharing insightful tidbits on computer science and technology, resulting in a 25% increase in follower engagement and doubling our online community size within six months.
-* Successfully organized the society’s annual competitive coding hackathon on GeeksForGeeks, attracting over 150 attendees from multiple universities across the university 
+* Successfully organised the society’s annual competitive coding hackathon on GeeksForGeeks, attracting over 150 attendees from multiple universities across the university 
 
 
-
+<!-- 
 
 # References
 
-Available on request
+Available on request -->
