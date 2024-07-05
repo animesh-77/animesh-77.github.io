@@ -119,7 +119,7 @@ redirect_from:
 * Experienced in **Python** for ML/DL, competitive coding, data science and computational physics 
 * Pandas, Numpy, Scikit-learn, Matplotlib, Plotly/Dash, SciPy, TensorFlow, PyTorch, GDAL, Rasterio, GeoPandas, rioxarray and pySTAC
 * **Unity** for AR/VR
-* Competent in **JAVA** , **C++ , ARDUINO **and** ESP32**
+* Competent in **JAVA** , **C++ , ARDUINO** and **ESP32**
 * **CUDA** for training on GPUs
 
 <table style="width: 100%; border-width: 0; font-size: 17px;">
