@@ -1,3 +1,9 @@
 {
     "editor.formatOnSave": false,
+    "cSpell.enableFiletypes": [
+        "!asciidoc",
+        "!c",
+        "!jupyter",
+        "!python"
+    ],
 }

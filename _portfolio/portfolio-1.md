@@ -6,7 +6,7 @@ collection: portfolio
 
 # Overview
 
-For my MSc dissertation in Machine Learning at UCL, I am focusing on modeling dynamic scenes using Gaussian splats.
+For my MSc dissertation in Machine Learning at UCL, I investigated the limits of current 3D Gaussian Splatting when extended to ultra high resolution training images to model high frequency features relating to human subjects. 
 
 
 <figure>
@@ -14,4 +14,4 @@ For my MSc dissertation in Machine Learning at UCL, I am focusing on modeling dy
   <figcaption>Gaussian splats with maximum opacity  <em>Credits: Dylan Ebert at HuggingFace  </em></figcaption>
 </figure>
 
- This project is ongoing and is expected to conclude in September.
+High-resolution novel view synthesis of human subjects is highly valuable in the fashion industry, offering consumers an immersive way to engage with their favorite clothing brands.

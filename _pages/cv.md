@@ -9,7 +9,12 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-# Education
+{% include base_path %}
+
+<iframe src="/files/Animesh_CV.pdf" width="100%" height="600px" style="border: none;"></iframe> 
+
+
+<!-- # Education
 
 <table style="width: 100%; border-width: 0; font-size: 17px;">
   <tr>
@@ -94,7 +99,7 @@ redirect_from:
 
 
 
-<table style="width: 100%; border-width: 0; font-size: 17px;">
+<!-- <table style="width: 100%; border-width: 0; font-size: 17px;">
   <tr>
     <td style="width: 80%; border-width: 0;"><strong>Summer Research Fellow </strong>- <em>Raman Research Institute (RRI), Bengaluru, India</em></td>
     <td style="text-align: right; width: 20%; border-width: 0;"><p style="margin: 0; border-width: 0;">July 2021 - Sep 2021</p></td>
@@ -169,7 +174,7 @@ redirect_from:
 * Led weekly hands-on Python workshops, covering popular libraries such as NumPy Matplotlib and Pandas
 * Organised and facilitated workshops on topics from machine learning, data science, algorithms, and data structures, empowering for over 100 students across all courses
 * Developed and managed weekly social media engagement posts, sharing insightful tidbits on computer science and technology, resulting in a 25% increase in follower engagement and doubling our online community size within six months.
-* Successfully organised the society’s annual competitive coding hackathon on GeeksForGeeks, attracting over 150 attendees from multiple universities across the university 
+* Successfully organised the society’s annual competitive coding hackathon on GeeksForGeeks, attracting over 150 attendees from multiple universities across the university  -->
 
 
 <!-- 
