@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/Animesh_CV.pdf" width="100%" height="600px" style="border: none;"></iframe> 
+<iframe src="/files/Animesh_CV_EXS.pdf" width="100%" height="600px" style="border: none;"></iframe> 
 
 
 <!-- # Education
