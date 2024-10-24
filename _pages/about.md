@@ -8,11 +8,28 @@ redirect_from:
 sitemap: false
 ---
 
-Hello!! &#x1F44B; I am a masters student at University College London specialising in machine learning  I hold an undergraduate degree in physics and have worked on projects ranging from satellite mission planning to deep learning and AR/VR. I am currently focused on my dissertation project on 3D gaussian splatting for fashion industry as part of my masters degree and also actively seeking opportunities to work on engaging Machine Learning problems. &#128516; 
+Hello!! &#x1F44B; I am a recent graduate from University College London, where I specialized in machine learning. I hold an undergraduate degree in Physics and have worked on projects ranging from satellite mission planning to deep learning and AR/VR. My most recent work, my master's dissertation, focused on 3D Gaussian splatting for the fashion industry. I am now actively seeking opportunities to work on engaging Machine Learning problems. &#128516; 
 
 
+# Education
 
-<!-- <center> <i>Words are overated so I use emojis to show my interests</i> <br> &#129302; &#128301; &#9917; &#127951;</center> -->
+* **University College London** - *Master of Science in Machine Learning*
+  * Machine vision, Applied deep learning, Graphical models, Supervised learning, Robot vision and navigation, Information retrieval and data mining
+
+* **St Stephen’s College, University of Delhi** - *Bachelor of Science in Physics Honours*
+  * Linear Algebra and Tensor Analysis, Advanced Calculus, Mathematical Physics, Astrophysics, Probability and Statistics and Quantum mechanics
+  * Final CGPA of 8.42 (equivalent to First Class Honours in the UK)
+
+# Technical Skills
+
+* **Programming Languages**: Python, JAVA, C++, MATLAB, C#
+* **Machine Learning**: PyTorch, TensorFlow, Scikit-learn, OpenCV 
+* **Web Development**: HTML, CSS, JavaScript
+* **Tools**: Git, Jupiter Notebook, Anaconda, Unity, COLMAP
+* **Python Libraries**: Pandas, NumPy, Matplotlib, Plotly, Dash, Rioxarray, GDAL, Rasterio, PySTAC
+
+# Interests
+&#129302; &#128301; &#9917; &#127951; &#128104;&#8205;&#128187; &#128736;
 
 <!-- Search emojis here https://symbl.cc/en/ -->
 <!-- Site-wide configuration
