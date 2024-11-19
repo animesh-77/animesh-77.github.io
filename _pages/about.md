@@ -13,20 +13,20 @@ Hello!! &#x1F44B; I am a recent graduate from University College London, where I
 
 # Education
 
-* **University College London** - *Master of Science in Machine Learning*
+* **University College London** - *MSc in Machine Learning*
   * Machine vision, Applied deep learning, Graphical models, Supervised learning, Robot vision and navigation, Information retrieval and data mining
 
-* **St Stephen’s College, University of Delhi** - *Bachelor of Science in Physics Honours*
+* **St Stephen’s College, University of Delhi** - *BSc in Physics Honours*
   * Linear Algebra and Tensor Analysis, Advanced Calculus, Mathematical Physics, Astrophysics, Probability and Statistics and Quantum mechanics
   * Final CGPA of 8.42 (equivalent to First Class Honours in the UK)
 
 # Technical Skills
 
 * **Programming Languages**: Python, JAVA, C++, MATLAB, C#
-* **Machine Learning**: PyTorch, TensorFlow, Scikit-learn, OpenCV 
+* **Machine Learning and Data Science Tools**: PyTorch, TensorFlow, Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib, Plotly, Dash
+* **Geospatial Analysis**: Fiona, Shapely, Geopandas, Rasterio, GDAL, PySTAC 
 * **Web Development**: HTML, CSS, JavaScript
-* **Tools**: Git, Jupiter Notebook, Anaconda, Unity, COLMAP
-* **Python Libraries**: Pandas, NumPy, Matplotlib, Plotly, Dash, Rioxarray, GDAL, Rasterio, PySTAC
+* **Other Tools**: Git and GitHub, Docker, FastAPI, VSCode, QGIS, Meshlab, CloudCompare, Unity, MS Excel, VBA, Word, PowerPoint, LaTeX, Linux (Ubuntu), JIRA
 
 # Interests
 &#129302; &#128301; &#9917; &#127951; &#128104;&#8205;&#128187; &#128736;
