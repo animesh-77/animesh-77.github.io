@@ -14,7 +14,7 @@ redirect_from:
 <!-- <iframe src="/files/Animesh_CV_EXS_NV.pdf" width="100%" height="600px" style="border: none;"></iframe>  -->
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-    <iframe src="files/Animesh_CV.pdf" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
+    <iframe src="../files/Animesh_CV.pdf" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
 </div>
 
 <!-- # Education
