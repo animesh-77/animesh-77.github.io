@@ -8,6 +8,12 @@ redirect_from:
 sitemap: false
 ---
 
+<meta name="title" property="og:title" content="[Content title here]">
+<meta property="og:type" content="[Content type here]">
+<meta name="image" property="og:image" content="[Image URL here]">
+<meta name="description" property="og:description" content="[Content description here]">
+<meta name="author" content="[Author name here]">
+
 Hello!! &#x1F44B; I am a recent graduate from University College London, where I specialized in machine learning. I hold an undergraduate degree in Physics and have worked on projects ranging from satellite mission planning to deep learning and AR/VR. My most recent work, my master's dissertation, focused on 3D Gaussian splatting for the fashion industry. I am now actively seeking opportunities to work on engaging Machine Learning problems. &#128516; 
 
 
