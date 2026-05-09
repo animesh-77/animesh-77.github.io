@@ -1,7 +1,8 @@
 ---
-title: "Machine Learning Intern at Bodymetrics"
-excerpt: "High Resolution Novel View Synthesis with 3D gaussian splatting <br/><img src='/images/3dgs.png' width='50%'>"
+title: "Machine Learning Intern at Bodymetrics — 3D Gaussian Splatting & Novel View Synthesis"
+excerpt: "High Resolution Novel View Synthesis with 3D Gaussian Splatting for fashion imagery <br/><img src='/images/3dgs.png' width='50%'>"
 collection: portfolio
+date: 2024-09-01
 ---
 
 # Overview

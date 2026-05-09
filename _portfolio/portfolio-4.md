@@ -1,7 +1,8 @@
 ---
-title: "College summer internship"
+title: "Lunar Orbit Simulation — Raman Research Institute"
 excerpt: "Designing a stable orbit for a satellite around the moon<br/><img src='/images/moon.png' width='50%'>"
 collection: portfolio
+date: 2021-09-01
 ---
 
 # Overview

@@ -2,100 +2,71 @@
 permalink: /
 title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 sitemap: false
 ---
 
-<meta name="title" property="og:title" content="[Content title here]">
-<meta property="og:type" content="[Content type here]">
-<meta name="image" property="og:image" content="[Image URL here]">
-<meta name="description" property="og:description" content="[Content description here]">
-<meta name="author" content="[Author name here]">
+<meta name="title" property="og:title" content="Animesh Srivastava">
+<meta property="og:type" content="website">
+<meta name="description" property="og:description" content="Data Engineer at Pirum Systems, London. MSc Machine Learning (UCL). Building data infrastructure and AI tools for securities finance.">
+<meta name="author" content="Animesh Srivastava">
 
 
-Hello! 👋 I'm a Machine Learning Engineer specialising in Computer Vision, with a robust academic and professional background. I recently completed my MSc in Machine Learning from University College London, building on my Bachelor's in Physics.
+Hello! I'm Animesh, a Data Engineer at Pirum Systems in London, where I build
+data infrastructure and AI-powered tools for the securities finance industry.
 
-Driven by an adaptable mindset and passion for technological innovation, I'm always eager to tackle complex challenges and collaborate with like-minded professionals. Let's connect and explore the frontiers of Machine Learning! 😄
+I work on Pirum's DataLake initiative, a recent strategic project to centralise
+and store data for long-term analytics. My day-to-day involves architecting ETL
+pipelines on AWS (Glue, Athena, S3, Lambda), designing medallion-architecture
+data layers that process terabytes of financial data daily, and managing
+infrastructure-as-code with Terraform. I've driven significant cost
+optimisation, reducing pipeline costs by 75% through partition pruning,
+predicate pushdown, and Spark worker rightsizing.
 
+What sets me apart is my ability to bridge the gap between data engineering and
+machine learning. I consistently identify opportunities to apply ML methods
+within data workflows and develop agentic AI workflows to streamline complex
+business processes. I bring a rigorous scientific foundation — an MSc in Machine
+Learning from UCL and a BSc in Physics from the University of Delhi — combined
+with hands-on engineering pragmatism honed across domains including computer
+vision, geospatial analysis, 3D reconstruction, and fintech.
 
- <!-- # Education -->
+Previously, I've worked on 3D Gaussian Splatting for novel view synthesis
+(Bodymetrics / UCL thesis), satellite imagery ML pipelines for crop monitoring
+(Pixxel), and active fire detection from multispectral data (Spartificial). I
+also spent a summer at the Raman Research Institute simulating satellite
+trajectories for lunar orbit optimisation.
 
-
-<!-- <div style="display: flex; justify-content: space-between; align-items: center;"> 
-    <div>
-        <strong style="font-size: 1em;">MSc in Machine Learning</strong>
-        - University College London
-    </div>
-    <div>
-      <strong style="font-size: 1em;">Sep 2023 - Sep 2024</strong>
-    </div>
-</div>
-  
-- **Final grades**: Merit
-- **Relevant modules**: 
-  Machine Vision, Robot Vision and Navigation, Applied DL, Supervised Learning, Applied ML, Bayesian Deep Learning, Graphical Models, Information Retrieval and Data Mining
-- **Relevant coursework topics**: SLAM, SfM, 2-view geometry, Feature extraction and matching, Data Augmentation, CNNs, VAE, GANs, RNNs, CNNs, Vision Transformers
-- **Dissertation**: “High Resolution Novel View Synthesis with 3D Gaussian Splatting” under UCL’s Industry Exchange Network -->
-
-
-<!-- <div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
-        <strong style="font-size: 1em;">BSc in Physics (Hons)</strong>
-        - University of Delhi
-    </div>
-    <div><strong style="font-size: 1em;">Jul 2019 - May 2022</strong></div>
-</div> --> 
-
-<!-- - **Final grades**: 8.42/10, equivalent to First-Class Honours, UK
-- **Relevant modules**: Quantum mechanics, Astrophysics, Linear Algebra and Tensor Analysis, Advanced Calculus, Computational Physics and Probability and Statistics
-- Recipient of the INSPIRE scholarship, awarded by Government of India   -->
+I'm always open to connecting with professionals working at the intersection of
+data engineering, AI, and financial technology.
 
 
-<!-- <div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
-        <strong style="font-size: 1em;">St Dominic Savio College, India</strong>
-        <strong style="font-size: 1em;">- Secondary Education</strong>
-    </div>
-    <div>
-      <strong style="font-size: 1em;">2017 - 2019</strong>
-    </div>
-</div>
+## Skills
 
-- **Class 12th (equivalent to A-levels, UK)**: 97.6% 
-  - Subjects: Physics, Chemistry, Mathematics, English, Computer Science
+**Data Engineering & Cloud:**
+AWS (Glue, S3, Athena, Lambda, SageMaker, Bedrock, SNS, SQS), PySpark,
+Terraform (IaC), ETL pipeline design, Medallion architecture, Docker
 
-- **Class 10th (equivalent to GCSE, UK)**: 95.5% -->
+**Machine Learning & AI:**
+PyTorch, TensorFlow, Scikit-learn, XGBoost, NLTK, SciPy, Agentic AI workflows,
+AWS Bedrock, LLM integration
 
-# Skills
+**Data Analysis & Visualisation:**
+Pandas, NumPy, Matplotlib, Plotly/Dash, SQL
 
-* **Programming Languages**: Python, C++, MATLAB, C#, JAVA, SQL
-* **ML DS**: PyTorch, TensorFlow, Scikit-learn, OpenCV, NLTK, XGBoost, Pandas, NumPy, Matplotlib, Plotly, Dash
-* **Geospatial Analysis**: Fiona, Shapely, Geopandas, Rasterio, GDAL, PySTAC 
-* **Web Development**: HTML, CSS, JavaScript
-* **Other Tools**: Git and GitHub, Docker, FastAPI, VSCode, QGIS, Meshlab, CloudCompare, Unity, MS Excel, VBA, Word, PowerPoint, LaTeX, Linux (Ubuntu), JIRA
+**Geospatial (prior specialisation):**
+GDAL, Rasterio, GeoPandas, pySTAC, xarray/rioxarray, QGIS
 
-# Interests
-&#129302; &#128301; &#9917; &#127951; &#128104;&#8205;&#128187; &#128736;
+**Programming Languages:**
+Python, Java, C++, SQL
 
-<!-- Search emojis here https://symbl.cc/en/ -->
-<!-- Site-wide configuration
-------
-The 
+**Tools & Practices:**
+Git/GitHub, FastAPI, Linux (Ubuntu), JIRA, LaTeX, VSCode
 
-Create content & metadata
-------
-For 
 
-**Markdown generator**
+## Interests
 
-I have
-
-How to edit your site's GitHub repository
-------
-Many 
-
-For more info
-------
-More info  -->
+Outside of work, I follow football and cricket, tinker with side projects, and
+enjoy exploring how emerging AI tools can be applied to real-world problems.
