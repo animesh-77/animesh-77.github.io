@@ -1,9 +1,17 @@
 {
-    "editor.formatOnSave": false,
+    "editor.formatOnSave": true,
     "cSpell.enableFiletypes": [
         "!asciidoc",
         "!c",
         "!jupyter",
         "!python"
     ],
+    "cSpell.words": [
+        "generalise",
+        "supersampling",
+        "utilised"
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python-envs.pythonProjects": [],
 }

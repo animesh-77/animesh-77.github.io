@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "About me"
-subtitle                 : "Version 2.0"
+title                    : "Animesh Srivastava"
+subtitle                 : "AI Engineer"
 title_separator          : "-"
 name                     : &name "Animesh Srivastava"
-description              : &description "personal description"
+description              : &description "Data Engineer at Pirum Systems, London. MSc Machine Learning (UCL). Building data infrastructure and AI tools for securities finance."
 url                      : https://animesh-77.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "animesh-77/animesh-77.github.io"
@@ -24,10 +24,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Animesh Srivastava"
-  pronouns         : "he/him"  
-  bio              : "Machine Learning Engineer"
+  bio              : "Data Engineer at Pirum Systems"
   location         : "London, UK"
-  employer         : "University College London"
+  employer         : "Pirum Systems"
   uri              : # URL
   email            : "animsriva@gmail.com"
 

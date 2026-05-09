@@ -2,6 +2,7 @@
 title: "Geospatial Analyst Intern at Pixxel"
 excerpt: "Monitoring crop phenology using satellite images and machine learning <br/><img src='/images/Pixxel.png' width='50%'>"
 collection: portfolio
+date: 2023-07-01
 ---
 
 # Overview

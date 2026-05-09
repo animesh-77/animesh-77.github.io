@@ -1,7 +1,8 @@
 ---
-title: "Guided project"
-excerpt: "Detecting active fire regions from mutlispectral satellite images in <em>near real time</em><br/><img src='/images/active_fire.png' width='50%'>"
+title: "Active Fire Detection from Satellite Imagery"
+excerpt: "Detecting active fire regions from multispectral satellite images in <em>near real time</em><br/><img src='/images/active_fire.png' width='50%'>"
 collection: portfolio
+date: 2023-01-01
 ---
 
 # Overview
